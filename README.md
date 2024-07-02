@@ -1,23 +1,26 @@
 # Modernity
-
-
-
-
+<p><br>
+<br>
+<br>
+<br>
+<br></p>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-
+<p><br>
+<br>
+<br>
+<br></p>
 
 ## README.md
-
-
-
-
-
+<P><br>
+<br>
+<br>
+<br>
+<br></p>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-
+<p><br>
+<br>
+<br>
+<br></p>
 
 ### Important Information
 
@@ -29,20 +32,46 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - Most files will be in .asm, and compiled and linked to an .o, and .bin files.
 
 Nice Project!
-
-
-
-
-
+<p><br>
+<br>
+<br>
+<br>
+<br></p>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<p><br>
+<br>
+<br>
+<br></p>
 
+### Ilios Selene
 
+<p>Ilios Selene<br>
+"Dedicated Solution"<br>
+(Business Management and IT)<br>
+Conglomerate</p>
+<p></P>
+<p>Modernity<br>
+"Redefine"<br>
+(Commerce/Techonoly)</p>
+<p></P>
+<p>Fabric Essence Academy<br>
+"Central Paradigms"<br>
+(Education)</P>
 
+#### Modernity
 
+- [Modernity (Commerce/Techonolgy)] 
+- {Convergence (Worldwide State/Church), 
+- Protest (Global Exchange), 
+- Catalyst (International Sector), 
+- Reactor (Municipal Infrastructure), 
+- SciArt (Public Industry)}
 
-### Artificial System
+##### Artifical System 
 
 - Artificial Intelligence (Conscious)
 - Systematic Intelligence (Subconscious)
 
-- Modernity (Convergence, Protest, Catalyst, Reactor, SciArt)
+
+
+
