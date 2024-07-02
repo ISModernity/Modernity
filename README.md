@@ -35,3 +35,14 @@ Nice Project!
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+### Artificial System
+
+- Artificial Intelligence (Conscious)
+- Systematic Intelligence (Subconscious)
+
+- Modernity (Convergence, Protest, Catalyst, Reactor, SciArt)
