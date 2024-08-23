@@ -24,12 +24,12 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### Important Information
 
-- Each folder containing a Program has a .txt file with a brief description.
+- Each folder containing a Program has a `.txt` file with a brief description.
 - Anyone can Read/Write.
-- Examples will be put in example.file_extension.
-- Mains will be put in main.file_extension.
-- If you want to add a file, put your initials, initials_example.file_extension.
-- Most files will be in .asm, and compiled and linked to an .o, and .bin files.
+- Examples will be put in `example.file_extension`.
+- Mains will be put in `main.file_extension`.
+- If you want to add a file, put your initials, `initials_example.file_extension`.
+- Most files will be in `.asm`, and compiled and linked to an `.o`, and `.bin` files.
 
 Nice Project!
 <p><br>
@@ -61,16 +61,16 @@ Conglomerate</p>
 #### Modernity
 
 - [Modernity (Commerce/Techonolgy)] 
-- {Convergence (Worldwide State/Church), 
-- Protest (Global Exchange), 
+- Convergence (Worldwide State/Church), 
+- Activate (Global Exchange), 
 - Catalyst (International Sector), 
 - Reactor (Municipal Infrastructure), 
 - SciArt (Public Industry)}
 
-##### Artifical System 
+##### Systematic Artificial Intelligence 
 
-- Artificial Intelligence (Conscious)
-- Systematic Intelligence (Subconscious)
+- Artificial Intelligence (Conscious) (Central/Peripheral) 
+- Systematic Intelligence (Subconscious) (Para/Sympathetic) 
 
 
 
